@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bowthebro
+- 👀 I’m interested in learning stuff
+- 🌱 I’m currently learning python
